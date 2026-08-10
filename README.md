@@ -1,0 +1,2 @@
+# Quantitative-Portfolio-Construction-Amid-the-AI-Wave-Grade-97-100---R-Programming
+FinTech Project (Grade 97/100): Built &amp; backtested an anti-AI wave contrarian portfolio using R (GenAI-assisted) &amp; ggplot2. Implemented out-of-sample rolling windows and no-shortsale constraints to mitigate model risk. Successfully fused behavioral finance with quantitative asset allocation to deliver actionable market insights.
