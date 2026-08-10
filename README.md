@@ -1,6 +1,7 @@
 # Quantitative-Portfolio-Construction-Amid-the-AI-Wave-Grade-97.1/100---R-Programming
 FinTech Project (Grade 97.1/100): Built &amp; backtested an anti-AI wave contrarian portfolio using R (GenAI-assisted) &amp; ggplot2. Implemented out-of-sample rolling windows and no-shortsale constraints to mitigate model risk. Successfully fused behavioral finance with quantitative asset allocation to deliver actionable market insights.
-# Project Title: Quantitative Portfolio Construction and Performance Analysis Amid the AI Wave: Evaluating the "Human Premium" and Anti-AI Contrarian Strategies(人性溢價與反AI烏托邦：AI狂潮下的逆勢投資組合建構與績效比較)
+# Project Title: Quantitative Portfolio Construction and Performance Analysis Amid the AI Wave: Evaluating the "Human Premium" and Anti-AI Contrarian Strategies
+# 專案主題：人性溢價與反AI烏托邦：AI狂潮下的逆勢投資組合建構與績效比較
 
 ## 📌 Executive Summary / 專案摘要
 - **Course / 課程名稱**: Financial Data Analysis (財務金融資訊分析) @ NCCU
@@ -19,7 +20,7 @@ This individual project independently formulates and backtests a contrarian inve
 - [x] **Data Processing (數據處理):** Utilized `R` to clean, structure, and transform historical financial market datasets.
 - [x] **Portfolio Optimization (投資組合優化):** Built multi-asset contrarian portfolios.
 - [x] **Backtesting & Evaluation (歷史回測):** Evaluated risk-adjusted returns (e.g., Sharpe Ratio) against traditional benchmarks.
-- [x] **Investment Results Analysis (投資結果分析):** Proposed data-driven investment strategies bridging law and FinTech.
+- [x] **Insight Interpretation (結果解讀):** Analyzed the out-of-sample performance (Sharpe Ratio, MDD) and translated quantitative metrics into actionable business insights.
 
 ---
 
