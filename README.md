@@ -1,5 +1,5 @@
-# Quantitative-Portfolio-Construction-Amid-the-AI-Wave-Grade-97.5/100---R-Programming
-FinTech Project (Grade 97.5/100): Built &amp; backtested an anti-AI wave contrarian portfolio using R (GenAI-assisted) &amp; ggplot2. Implemented out-of-sample rolling windows and no-shortsale constraints to mitigate model risk. Successfully fused behavioral finance with quantitative asset allocation to deliver actionable market insights.
+# Quantitative-Portfolio-Construction-Amid-the-AI-Wave-Grade-97.1/100---R-Programming
+FinTech Project (Grade 97.1/100): Built &amp; backtested an anti-AI wave contrarian portfolio using R (GenAI-assisted) &amp; ggplot2. Implemented out-of-sample rolling windows and no-shortsale constraints to mitigate model risk. Successfully fused behavioral finance with quantitative asset allocation to deliver actionable market insights.
 # Project Title: Quantitative Portfolio Construction and Performance Analysis Amid the AI Wave: Evaluating the "Human Premium" and Anti-AI Contrarian Strategies(人性溢價與反AI烏托邦：AI狂潮下的逆勢投資組合建構與績效比較)
 
 ## 📌 Executive Summary / 專案摘要
